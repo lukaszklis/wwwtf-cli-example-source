@@ -1,0 +1,11 @@
+{
+  "locals": {
+    "url": "https://%YEAR%.cssconf.eu",
+    "twitterHandle": "@CSSconfeu",
+    "email": "contact@cssconf.eu",
+    "name": "CSSconf EU | %DAY_NAME%, %MONTH% %DAY% %YEAR% | Berlin, Germany",
+    "owner": "CSSconf EU Team",
+    "description": "CSSconf EU is conference dedicated to all those passionate about design, CSS, and the web. For the community, by the community.",
+    "buyTicketsLink": "https://ti.to/cssconfeu/cssconfeu-%YEAR%/"
+  }
+}
